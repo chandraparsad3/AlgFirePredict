@@ -31,11 +31,6 @@ The dataset encompasses 244 instances, evenly distributed with 122 instances for
    cd AlgFirePredict
    ```
 
-3. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. **Load the Dataset:**
@@ -49,7 +44,7 @@ The dataset encompasses 244 instances, evenly distributed with 122 instances for
 
 ## Contributing
 
-Contributions are highly encouraged! If you identify a bug or have an innovative idea for an enhancement, feel free to open an issue or submit a pull request. Please adhere to the [contribution guidelines](CONTRIBUTING.md).
+Contributions are highly encouraged! If you identify a bug or have an innovative idea for an enhancement, feel free to open an issue or submit a pull request.
 
 ## License
 
