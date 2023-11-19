@@ -34,7 +34,7 @@ The dataset encompasses 244 instances, evenly distributed with 122 instances for
 ## Usage
 
 1. **Load the Dataset:**
-   Ensure the dataset file (`algerian_fire.csv`) is in the project directory.
+   Ensure the dataset file (`fire.csv`) is in the project directory.
 
 2. **Build and Evaluate the Model:**
    Utilize the Jupyter notebook (`Algerian_fire.ipynb`) to build and evaluate the machine learning model. Leverage the pre-trained model (`ridge.pkl`) and scaler (`scaler.pkl`) for a streamlined process.
